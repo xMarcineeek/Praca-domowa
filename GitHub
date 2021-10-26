@@ -1,0 +1,9 @@
+git clone <gitid>
+git config --global user.name"xMarcineeek"
+git init
+echo 'Praca Domowa' > README.md
+git status
+git commit –m “My first commit”
+git log
+git pull
+git push origin master
